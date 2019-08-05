@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48" started-at="2019-08-03T10:46:02Z" finished-at="2019-08-03T10:46:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48" started-at="2019-08-03T10:46:02Z" finished-at="2019-08-03T10:46:02Z">
+      <class name="Utils.Sending_Emails">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Utils.Sending_Emails@6a1aab78]" name="beforeMethod" is-config="true" duration-ms="6" started-at="2019-08-03T16:16:02Z" finished-at="2019-08-03T16:16:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Simple_Email()[pri:0, instance:Utils.Sending_Emails@6a1aab78]" name="Simple_Email" duration-ms="7" started-at="2019-08-03T16:16:02Z" description="A simple text email" finished-at="2019-08-03T16:16:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Simple_Email -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Utils.Sending_Emails@6a1aab78]" name="afterMethod" is-config="true" duration-ms="2" started-at="2019-08-03T16:16:02Z" finished-at="2019-08-03T16:16:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Utils.Sending_Emails -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
